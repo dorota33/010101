@@ -1,0 +1,14 @@
+{
+    "name": "karta_lojalnosciowa",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Dorota",
+    "contributors": [],
+    "dependencies": {}
+}
